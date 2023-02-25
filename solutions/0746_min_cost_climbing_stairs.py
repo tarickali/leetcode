@@ -1,3 +1,9 @@
+'''
+title : 0746_min_cost_climbing_stairs.py
+create : @tarickali 23/11/22
+update : @tarickali 23/11/22
+'''
+
 class Solution:
     def minCostClimbingStairs(self, cost: list[int]) -> int:
         n = len(cost)

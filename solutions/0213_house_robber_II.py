@@ -1,3 +1,9 @@
+'''
+title : 0213_house_robber_II.py
+create : @tarickali 25/11/23
+update : @tarickali 25/11/23
+'''
+
 class Solution:
     def rob(self, nums: list[int]) -> int:
         def walk(i: int, j: int) -> int:

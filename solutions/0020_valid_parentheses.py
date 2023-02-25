@@ -1,3 +1,9 @@
+'''
+title : 0020_valid_parentheses.py
+create : @tarickali 23/11/22
+update : @tarickali 23/11/22
+'''
+
 class Solution:
     def isValid(self, s: str) -> bool:
         brackets = {')': '(', '}': '{', ']': '['}

@@ -1,3 +1,9 @@
+'''
+title : 0198_house_robber.py
+create : @tarickali 25/11/23
+update : @tarickali 25/11/23
+'''
+
 class Solution:
     def rob(self, nums: list[int]) -> int:
         # Dynamic programming with no memoization
